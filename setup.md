@@ -41,3 +41,4 @@ conda install conda-forge::mplfinance -y
 
 streamlit run liquidity_dashboard.py
 
+origin git@github.com:skrinak/LiquidityLens.git
